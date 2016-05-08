@@ -1,0 +1,19 @@
+<font><font><? Xml version = "1.0" encoding = "UTF-8" standalone = "yes"?></font></font><font></font><font><font>
+<Dodatek id = "plugin.video.france24.fr"</font></font><font></font><font><font>
+       name = "France24"</font></font><font></font><font><font>
+       version = "1.0.0" </font></font><font></font><font><font>
+       Dostawca-name = "Abed BenBrahim"></font></font><font></font><font><font>
+  <Wymaga></font></font><font></font><font><font>
+   <Importu dodatek = "xbmc.python" version = "2.1" /></font></font><font></font><font><font>
+  </ Wymaga></font></font><font></font><font><font>
+  <Punkt extension = "xbmc.python.pluginsource" library = "default.py"></font></font><font></font><font><font>
+        <Zapewnia> wideo </ zapewnia></font></font><font></font><font><font>
+  </ Rozszerzenie></font></font><font></font><font><font>
+  <Punkt extension = "xbmc.addon.metadata"></font></font><font></font><font><font>
+    <Summary lang = "fr"> Les Emisje de France24 </ summary></font></font><font></font><font><font>
+    <Description lang = "fr"> Les Emisje de France24 </ description></font></font><font></font><font><font>
+    <Platforma> wszystkie </ platforma></font></font><font></font><font><font>
+ <Język> fr </ język></font></font><font></font><font><font>
+ <Email> abenbrahim@comcast.net </ email></font></font><font></font><font><font>
+  </ Rozszerzenie></font></font><font></font><font><font>
+</ Addon></font></font><font></font>
