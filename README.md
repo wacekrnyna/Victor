@@ -1,2 +1,0 @@
-# Victor
-Just another repository
