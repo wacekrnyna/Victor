@@ -2,8 +2,8 @@
 <addon 
 	id="plugin.Victor.VIP" 
 	name="Victor.VIP" 
-	version="1.2.2" 
-	provider-name="Michal">
+	version="1.0.0" 
+	provider-name="Victor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
  </requires>
@@ -13,7 +13,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">...</summary>
-    <description lang="en">Live Polish TV</description>
+    <description lang="en">Polish TV</description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>
