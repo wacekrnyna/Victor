@@ -63,7 +63,7 @@ def build_url(query):
 
 def m3u2list(url):
     url = 'http://przeklej.org/file/download/SYw2uU0HcajEt4qrXWnO'
-    url = 'https://drive.google.com/uc?export=download&id=0B0PmlVIxygktR3dvSnByTTZtNFE'
+    # url = 'https://drive.google.com/uc?export=download&id=0B0PmlVIxygktR3dvSnByTTZtNFE'
     # url='http://api.moje-filmy.tk/nowa1.m3u8?cid=e940f0f2f3bff1f8812038acbad38dad'
     # url='http://api.moje-filmy.tk/nowa1.m3u8?cid=39ed77fae36199cac9dd68164ec6eba6'
     # url='http://api.moje-filmy.tk/nowa1.m3u8?cid=601e11c9fdbc123cf956c392202e605a'
