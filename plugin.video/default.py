@@ -5,7 +5,7 @@ import os, time, base64, logging, calendar
 import xbmcaddon
 
 
-scriptID = 'plugin.video.mrknow'
+scriptID = 'plugin.video'
 scriptname = "Films online"
 ptv = xbmcaddon.Addon(scriptID)
 print("scripid",ptv)
