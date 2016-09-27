@@ -62,7 +62,7 @@ def build_url(query):
     return base_url + '?' + urllib.urlencode(query)
 
 def m3u2list(url):
-    url = 'http://przeklej.org/file/download/X3Ilo0qHWbSVpaO4xUTL'
+    url = 'https://www.easypaste.org/file/YoRmIk/tv.kopia.m3u?lang=pl'
     # url = 'https://drive.google.com/uc?export=download&id=0B0PmlVIxygktR3dvSnByTTZtNFE'
     # url='http://api.moje-filmy.tk/nowa1.m3u8?cid=e940f0f2f3bff1f8812038acbad38dad'
     response = getUrl(getUrl(url))
