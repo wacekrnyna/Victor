@@ -62,7 +62,7 @@ def build_url(query):
     return base_url + '?' + urllib.urlencode(query)
 
 def m3ulist(url):
-    url='http://dwiptv.cba.pl/iptv.m3u'
+    url='http://clientportal.link:8080/get.php?username=babak&password=babak1&type=m3u'
     # url = 'https://drive.google.com/uc?export=download&id=0B0PmlVIxygktR3dvSnByTTZtNFE'
     # url='http://api.moje-filmy.tk/nowa1.m3u8?cid=e940f0f2f3bff1f8812038acbad38dad'
     response = getUrl(getUrl(url))
